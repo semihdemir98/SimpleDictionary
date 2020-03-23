@@ -1,0 +1,5 @@
+1.Kayit:Kelime: 1.Kayit:Kelime:
+1.Aciklama: deneme
+2.Aciklama: 1.Aciklama:
+3.Aciklama: semih
+
